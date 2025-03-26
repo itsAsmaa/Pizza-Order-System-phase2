@@ -1,6 +1,6 @@
-# 🍕 Pizza Order System 🍕
+# 🍕 Pizza Order System 
 
-## Project Overview 🚀
+## Project Overview 
 
 Welcome to the Pizza Order System! 🍕 This project allows users to place and manage different types of pizza orders: **ToGo**, **Delivery**, and **Seated**. The application calculates the price of each order based on various factors such as pizza size, toppings, and additional charges (e.g., trip rates, service charges).
 
